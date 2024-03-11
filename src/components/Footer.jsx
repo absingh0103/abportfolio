@@ -10,7 +10,10 @@ const Footer = () => {
       <div className="m-auto max-w-7xl ">
         <div className=" py-20 md:px-12 px-4">
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-8 ">
-            <a href="/" className="text-black font-bold">
+            <a
+              href="https://absingh0103.github.io/abportfolio/"
+              className="text-black font-bold"
+            >
               Abhishek Singh
             </a>
             <div className="flex flex-col md:flex-row md:items-center flex-wrap text-gray-700 font-semibold">

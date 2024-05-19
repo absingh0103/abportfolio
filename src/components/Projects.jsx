@@ -12,7 +12,7 @@ const Projects = () => {
         "The Amazon Clone project replicates key functionalities of Amazon, featuring user authentication, product listings, cart management, and more. It demonstrates expertise in developing scalable web applications and integrating diverse APIs.",
       techStack: "React, Tailwind, Node, Express, MongoDB, Stripe, JWT",
       image: amazon,
-      live: "https://amazon.cyclic.cloud/",
+      live: "https://amazon-production-1a1e.up.railway.app/",
       github: "https://github.com/absingh0103/Amazon",
     },
     {

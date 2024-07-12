@@ -3,6 +3,7 @@ import githubimg from "../assets/tools/githubimg.svg";
 import amazon from "../assets/projects/amazon.png";
 import ShopNow from "../assets/projects/ShopNow.png";
 import code from "../assets/code.svg";
+import WorkNow from "../assets/projects/WorkNow.png";
 const Projects = () => {
   const projects = [
     {
@@ -28,6 +29,16 @@ const Projects = () => {
     },
     {
       id: 3,
+      name: "WorkNow",
+      description:
+        "WorkNow delivers a complete job search experience, enabling job browsing, application management, and secure authentication. It demonstrates a commitment to user-friendly design and efficient backend systems, ensuring a smooth job-hunting process.",
+      techStack: "React, CSS, ContextAPI, Node, Express, JWT, MongoDB",
+      image: WorkNow,
+      live: "https://worknow-mamn.onrender.com/",
+      github: "https://github.com/absingh0103/JobPortal_Server",
+    },
+    {
+      id: 4,
       name: "Coming Soon...",
       description: "New projects are currently under development.",
       image: code,

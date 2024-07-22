@@ -34,7 +34,7 @@ const Projects = () => {
         "WorkNow delivers a complete job search experience, enabling job browsing, application management, and secure authentication. It demonstrates a commitment to user-friendly design and efficient backend systems, ensuring a smooth job-hunting process.",
       techStack: "React, CSS, ContextAPI, Node, Express, JWT, MongoDB",
       image: WorkNow,
-      live: "https://worknow-mamn.onrender.com/",
+      live: "https://worknow.glitch.me/",
       github: "https://github.com/absingh0103/JobPortal_Server",
     },
     {

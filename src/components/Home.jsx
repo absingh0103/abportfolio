@@ -1,5 +1,6 @@
 
 import office2 from "../assets/office2.png";
+import home11 from "../assets/home11.png";
 
 const Home = () => {
   return (
@@ -8,7 +9,7 @@ const Home = () => {
         <div className="mt-[18]" id="home">
           <div className="lg:px-12 px-4 flex flex-col md:flex-row-reverse items-center justify-between py-24 gap-5">
             <div className="md:w-1/2 w-full">
-              <img src={office2} alt="avtar" className="w-full" />
+              <img src={home11} alt="avtar" className="w-full" />
             </div>
             {/* left side */}
             <div className="md:w-1/2 w-full mt-5">

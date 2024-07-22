@@ -1,5 +1,8 @@
 import office2 from "../assets/office2.png";
+import about11 from "../assets/about11.png";
 import Resume from "../assets/Resume.pdf";
+
+
 const About = () => {
   return (
     <div className="bg-gradient-to-r from-red-50 via-red-100 to-yellow-50">
@@ -7,7 +10,7 @@ const About = () => {
         <div className="lg:mx-12 mx-4" id="about">
           <div className="flex flex-col sm:flex-row md:gap-24 gap-12 items-center justify-between">
             <div className="sm:w-1/2">
-              <img src={office2} alt="" className="w-full sm:w-11/12" />
+              <img src={about11} alt="" className="w-full sm:w-11/12 " />
             </div>
             <div className="sm:w-1/2">
               <h2 className="md:text-5xl text-4xl text-headingcolor font-extrabold">

@@ -2,7 +2,6 @@ import office2 from "../assets/office2.png";
 import about11 from "../assets/about11.png";
 import Resume from "../assets/Resume.pdf";
 
-
 const About = () => {
   return (
     <div className="bg-gradient-to-r from-red-50 via-red-100 to-yellow-50">
@@ -18,20 +17,21 @@ const About = () => {
               </h2>
               <p className="mt-8 md:pr-8 mb-8 text-gray-800 font-semibold text-lg font-mono">
                 I am{" "}
-                <span className="text-black font-bold">Abhishek Singh</span>, a
-                dedicated web developer driven by passion since 2021. Throughout
-                my journey, I've immersed myself in mastering an array of web
-                development technologies including{" "}
-                <span className="text-black font-bold">
-                  JavaScript, React.js, Next.js, Node, Express, MongoDB, MySql{" "}
-                </span>
-                and more. My expertise extends to both front-end and back-end
-                development, where I have honed my skills in crafting dynamic
-                web applications.
-                <br /> <br />I thrive on the challenges inherent in creating
-                seamless user experiences, whether on the front-end or back-end.
-                Thank you for taking the time to familiarize yourself with my
-                background and work.
+<span className="text-black font-bold">Abhishek Singh</span>, a
+software developer with hands-on experience in designing and
+developing scalable web applications. I work extensively with{" "}
+<span className="text-black font-bold">
+  JavaScript, React.js, Next.js, Node.js, Express, MongoDB, and MySQL
+</span>,
+focusing on modular architecture, RESTful APIs, and performance
+optimization across both frontend and backend systems.
+
+<br /> <br />
+
+I enjoy solving system-level problems, improving application
+performance, and building reliable, maintainable software with a
+strong emphasis on clean code and best engineering practices.
+
               </p>
               <a href={Resume} download="Abhishek_CV">
                 <button

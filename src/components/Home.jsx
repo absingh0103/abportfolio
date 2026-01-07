@@ -24,12 +24,7 @@ const Home = () => {
                 stunning <span className="text-rose-600">digital reality.</span>
               </h1>
               <p className="text-xl font-mono font-semibold text-body leading-9 mb-8">
-                I'm a dedicated software engineer based in India, Specializing
-                in dynamic web applications. With a focus on captivating visuals
-                and robust backend functionality with high performance, I
-                deliver top-tier solutions that exceed expectations. My goal is
-                to empower businesses and individuals to achieve their digital
-                aspirations.
+                I’m a software developer with professional experience in building dynamic web applications.I focus on developing efficient, scalable backend systems and intuitive user interfaces. Passionate about writing clean, optimized code, I strive to deliver reliable solutions that create meaningful business impact.
               </p>
               <a
                 href="https://www.linkedin.com/in/abhishek0103"
